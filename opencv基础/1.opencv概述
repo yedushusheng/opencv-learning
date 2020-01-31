@@ -1,7 +1,0 @@
-1. 概述
-OpenCV全程Open Source Computer Vision Library，即开源计算机视觉库，由Intel建立，如今由Willow Garage支持。
-
-2. 基本架构
-OpenCV由多个模块组成，分别是：
-（1）calib3d：Calibration（校准）和3D组合缩写，该模块主要是相机校准和三维重建相关的内容，包括基本的多视角几何算法、单个立体摄像头标定、物体姿态估计、立体相似度算法、3D信息重建等。
-（2）contrib：Contributed/Experimental Stuf的缩写，该模块包含了一些最近添加的不太稳定的可选功能，如新增了新型人脸识别、立体匹配、人工视网膜模型等技术。
